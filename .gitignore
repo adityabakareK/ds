@@ -1,6 +1,2 @@
-example*
-.gz
-node_modules
-package-lock.json
-yarn.lock
-.vscode
+*.sh 
+ mine.txt
